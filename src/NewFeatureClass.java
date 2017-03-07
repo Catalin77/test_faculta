@@ -4,5 +4,5 @@
 public class NewFeatureClass {
 
     //Just playing around with Git :)
-    
+
 }
