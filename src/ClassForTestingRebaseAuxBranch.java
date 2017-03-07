@@ -4,5 +4,6 @@
 public class ClassForTestingRebaseAuxBranch {
 
     //added on New_feature_#1 branch
+    //test 1 from new feature
 
 }
