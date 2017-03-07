@@ -7,4 +7,5 @@ public class A {
         System.out.println("from A");
     }
     //mergetool test(modified from master)
+    //mergetool test
 }
