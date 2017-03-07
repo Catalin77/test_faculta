@@ -6,4 +6,5 @@ public class A {
     public void write(){
         System.out.println("from A");
     }
+    //mergetool test(modified from master)
 }
